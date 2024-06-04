@@ -905,6 +905,282 @@ background-image: url(./assests/051424-kmart-bigbox-patio.webp);
 
 }
 
+/* Responsive 425px */
+
+@media(max-width:425px){
+
+    .main-container{
+        width: 100%;
+    }
+
+    .navbar{
+        padding-inline: 10px;
+    }
+
+    .navbar ul li:nth-child(2) img{
+        width: 40px;
+    }
+
+    .grp-inp{
+        display: none;
+    }
+    .res-button{
+        padding-inline: 12px;
+        padding-block: 0px;
+    }
+    .profile-btn span{
+        gap: 0px;
+    }
+
+    .profile-btn i{
+        display: none;
+    }
+
+    .search-bar{
+        display: flex;
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .hero-section{
+        width: 100%;
+        padding-block: 40px;
+    }
+
+    .image-section{
+        display: none;
+    }
+
+    .image-section-2{
+        display: flex;
+    }
+
+    .category{
+        width: 100%;
+        height: auto;
+    }
+
+    .upper-res{
+        width: 100%;
+        display: flex;
+    }
+
+    .upper{
+        flex-direction: column;
+    }
+
+    .offer-card{
+        width: 100%;
+        height: 150px;
+    }
+
+    .swiper-container{
+        width: 100%;
+        padding-inline: 10px;
+    }
+
+    .swiper-wrapper{
+        padding-left:px;
+        }
+
+    .swiper-slide{
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .image-part{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .image-part img{
+        width: 100%;
+    }
+
+    .item-detail{
+        width: 100%;
+    }
+
+    .item-detail{
+        width: 100%;
+        display: flex;
+    }
+
+    .item-detail p br{
+        display: none;
+    }
+    .res-links{
+        margin-top: 30px;
+    }
+
+    .social ul{
+        flex-direction: column;
+    }
+
+    .footer-bottom{
+        display: none;
+    }
+    .social ul li:last-child{
+        display: flex;
+    }
+
+    .social ul li:last-child img{
+        width: 88px;
+    }
+
+   .footer-links{
+    display: none;
+   }
+
+   .footer-head{
+    display: inline;
+   }
+
+}
+
+/* Responsive 480px */
+
+@media(max-width:480px){
+
+    .main-container{
+        width: 100%;
+    }
+
+    .navbar{
+        padding-inline: 10px;
+    }
+
+    .navbar ul li:nth-child(2) img{
+        width: 40px;
+    }
+
+    .grp-inp{
+        display: none;
+    }
+    .res-button{
+        padding-inline: 12px;
+        padding-block: 0px;
+    }
+    .profile-btn span{
+        gap: 0px;
+    }
+
+    .profile-btn i{
+        display: none;
+    }
+
+    .search-bar{
+        display: flex;
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .hero-section{
+        width: 100%;
+        padding-block: 40px;
+    }
+
+    .image-section{
+        display: none;
+    }
+
+    .image-section-2{
+        display: flex;
+    }
+
+    .category{
+        width: 100%;
+        height: auto;
+    }
+
+    .upper-res{
+        width: 100%;
+        display: flex;
+    }
+
+    .upper{
+        flex-direction: column;
+    }
+
+    .offer-card{
+        width: 100%;
+        height: 150px;
+    }
+
+    .swiper-container{
+        width: 100%;
+        padding-inline: 10px;
+    }
+
+    .swiper-wrapper{
+        padding-left:px;
+        }
+
+    .swiper-slide{
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .image-part{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .image-part img{
+        width: 100%;
+    }
+
+    .item-detail{
+        width: 100%;
+    }
+
+    .item-detail{
+        width: 100%;
+        display: flex;
+    }
+
+    .item-detail p br{
+        display: none;
+    }
+    .res-links{
+        margin-top: 30px;
+    }
+
+    .social ul{
+        flex-direction: column;
+    }
+
+    .footer-bottom{
+        display: none;
+    }
+    .social ul li:last-child{
+        display: flex;
+    }
+
+    .social ul li:last-child img{
+        width: 88px;
+    }
+
+   .footer-links{
+    display: none;
+   }
+
+   .footer-head{
+    display: inline;
+   }
+
+}
+
 /* Responsive 375px */
 
 @media(max-width:375px){
